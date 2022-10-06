@@ -6,7 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzawp" alt="Hamzawp" /></a> </p> -->
 - 👋 Hi, I’m @Hamzawp
 - 👀 I’m interested in every aspect of life which makes human life more advance and easier.
-- 🌱 I’m currently learning web dev and cp.
+- 🌱 I’m currently learning web dev and cp and many more thing which wont be counting here.
 - 📫 How to reach me 
       Hamzawp404@gmail.com
 
