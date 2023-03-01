@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Sayyed</h1>
-<h3 align="center">Logical and results-driven Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives.</h3>
+<h3 align="center">Logical and results-driven Web Developer dedicated to
+building and optimizing user-focused websites for
+customers with various business objectives. Judicious and
+creative when crafting effective websites, apps and
+platforms to propel competitive advantage and revenue
+growth. Technically proficient and analytical problem
+solver with calm and focused demeanor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzawp&label=Profile%20views&color=0e75b6&style=flat" alt="hamzawp" /> </p>
 
