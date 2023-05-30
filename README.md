@@ -11,7 +11,7 @@ solver with calm and focused demeanor.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzawp" alt="hamzawp" /></a> </p>
 
-- 💬 Ask me about **MERN, C++**
+- 💬 Ask me about **MERN STACK, C/C++, PYTHON**
 
 - 📫 How to reach me **hamzawp404@gmail.com**
 
